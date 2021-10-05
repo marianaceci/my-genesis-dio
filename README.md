@@ -1,4 +1,4 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Jogo Gênesis - DIGITAL INNOVATION ONE
 
 Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
 
